@@ -122,18 +122,18 @@ Durante la sesión, cada participante comprueba en su propio móvil que tiene ac
 
 Las contraseñas y los códigos no se anotan en un papel común ni se dictan en voz alta. Cada persona trabaja solo con su dispositivo.
 
-## Tarea de casa
+## Tarea de casa de la sesión 2
 
 !!! abstract "En este apartado"
 
-    - La siguiente sesión presencial es el jueves 19 de noviembre de 2026 y está dedicada a IESMA TIC I.
-    - En esa sesión se presentan la aplicación del centro, las incidencias TIC y el momento en que conviene abrir un tique en gvaSAI, la aplicación del Soporte y Asistencia Informática, además de REDAR.
-    - La hora de casa sirve para localizar IESMA TIC antes del aula, de modo que la sesión pueda empezar con la aplicación ya a mano.
-    - El tramo se cierra con un formulario breve de autocomprobación.
+    - La tarea de casa es la sesión 2, el 12 de noviembre de 2026, y se hace en casa: trata de ITACA3 y del módulo docente.
+    - El módulo docente es la vista que el profesorado usa a diario dentro de ITACA3; esta sesión sale de esa vista para ver el resto del sistema de información.
+    - Ese recorrido prepara la sesión 3, presencial, del 19 de noviembre, dedicada a IESMA TIC I.
+    - El tramo se cierra con el formulario breve de autocomprobación.
 
-    IESMA TIC se abre desde la redirección [/iesmatic](https://fjavier-hernandez.github.io/iesmatic). El marco general de las plataformas sigue siendo el Sway [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN).
+    El marco de ITACA3 está en el Sway [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN). IESMA TIC, que se verá en la sesión presencial del 19 de noviembre, se abre desde la redirección [/iesmatic](https://fjavier-hernandez.github.io/iesmatic).
 
-La siguiente sesión presencial es el jueves 19 de noviembre de 2026 y trata IESMA TIC I: la presentación de la aplicación del centro, las incidencias TIC y cuándo abrir un tique en gvaSAI, y REDAR. La hora de trabajo en casa sirve para llegar a esa sesión con la aplicación localizada, a través de la redirección [/iesmatic](https://fjavier-hernandez.github.io/iesmatic), y para cerrarla con el formulario breve de autocomprobación.
+La tarea de casa es la sesión 2. Se hace en casa el 12 de noviembre de 2026 y está dedicada a ITACA3 y al módulo docente. El módulo docente es la vista que el profesorado usa a diario dentro de ITACA3. Esta sesión sale de esa vista y se fija en el resto del sistema de información, para distinguir lo que se consulta cada día de lo que la plataforma ofrece más allá. Ese trabajo prepara la sesión 3, que es presencial y se celebra el 19 de noviembre: IESMA TIC I, con la presentación de la aplicación del centro, las incidencias TIC, el momento de abrir un tique en gvaSAI y REDAR, además de OneDrive. La hora se cierra con el formulario breve de autocomprobación.
 
 !!! note "Nota"
     El formulario de autocomprobación de esta tarea se publicará en la próxima sesión.
