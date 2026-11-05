@@ -1,0 +1,114 @@
+site_name: Herramientas corporativas 26-27
+site_description: Apuntes del seminario de centro del Instituto de Educación Secundaria Macià Abela sobre las herramientas corporativas de la Conselleria de Educación y la competencia digital docente. Curso 2026-2027.
+site_url: https://fjavier-hernandez.github.io/herramientas-corporativas/
+use_directory_urls: false
+
+# Solo se publica docs/ (nav). Cada sesión nueva se añade en el bloque Sesiones,
+# con su archivo en docs/sesiones/sesion-N.md, cuando el material esté listo.
+
+nav:
+  - Inicio: index.md
+  - Sesiones:
+      - "Sesión 1 — Identidad digital y correo": sesiones/sesion-1.md
+
+theme:
+  language: es
+  name: "material"
+  favicon: "img/ral.svg"
+  palette:
+    - scheme: javi
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Cambiar a modo noche
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Cambiar a modo día
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: "./img/ral.svg"
+  features:
+    - header.autohide
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - navigation.indexes
+    - content.code.annotate
+    - announce.dismiss
+    - toc.follow
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  status:
+      deprecated: Pronto será historia
+      new: Recién añadido
+      updated: Modificado
+  search:
+    language: "es"
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:<fj.hernandez@edu.gva.es>
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/fjavier-hernandez-illan
+
+  analytics:
+    provider: google
+    property: G-0CPJP88MBF
+
+  consent:
+    title: Consentimiento de cookie
+    description: >-
+      Esta página de apuntes utiliza cookies para reconocer las visitas, medir la efectividad de la documentación
+      y averiguar si encuentras aquello que buscas o cómo has llegado a estos apuntes.
+      Con tu consentimiento, me ayudas a mejorar estos materiales.
+
+plugins:
+  - search
+  - tags
+  - social:
+      cards: true
+  - print-site:
+      enumerate_headings: false
+      toc_title: Tabla de contenidos
+      include_css: false
+      exclude:
+        - "tags.md"
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - meta
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - sane_lists
+  - toc:
+      permalink: true
+      toc_depth: 4
+
+copyright: 2026-2027 Francisco Javier Hernández Illán - <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Licencia CC BY-NC-SA</a>
