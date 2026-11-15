@@ -15,7 +15,7 @@ nav:
 theme:
   language: es
   name: "material"
-  favicon: "img/ral.svg"
+  favicon: "img/hc.svg"
   palette:
     - scheme: javi
       toggle:
@@ -28,7 +28,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: "./img/ral.svg"
+  logo: "./img/hc.svg"
   features:
     - header.autohide
     - navigation.top
