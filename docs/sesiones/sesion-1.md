@@ -1,6 +1,6 @@
 ---
 title: Sesión 1. Presentación e identidad digital
-description: Identidad digital, contraseña, autenticación multifactor y buen uso del correo corporativo.
+description: Identidad digital, contraseña, autenticación multifactor, correo corporativo y foto de perfil.
 ---
 
 # Sesión 1. Presentación e identidad digital
@@ -94,6 +94,37 @@ La identidad digital es la cuenta corporativa con la que el profesorado entra en
 
     El chat de Teams es mejor que un correo cuando la consulta es breve, va dirigida a quien ya está en ese equipo y no necesita quedar como comunicación formal. Es el caso de una duda breve entre compañeros, de un aviso de que un documento ya está revisado o de una pregunta que se resuelve en pocas frases. El correo sigue siendo preferible cuando el mensaje debe poder releerse más adelante, cuando va dirigido a alguien que no está en el equipo o cuando conviene dejar constancia de un envío a muchas personas.
 
+## Foto de perfil en MS365
+
+!!! abstract "En este apartado"
+
+    - La foto de perfil de Microsoft 365 permite que el resto del claustro reconozca a quien escribe en Outlook, en Teams y en los chats.
+    - Con la cuenta @edu.gva.es puede cambiarse desde Outlook en la web o desde Mi cuenta, y las dos vías guardan la misma imagen.
+    - El archivo tiene que ser PNG, JPG o GIF y ocupar menos de 4 MB. Después de guardarla, puede tardar hasta 24 horas en verse en todas las aplicaciones.
+
+    - :material-book-open-page-variant: [Agregar o actualizar la imagen de perfil profesional o educativa](https://support.microsoft.com/es-es/accounts-billing/work-school/add-or-update-your-work-or-school-profile-picture)
+    - :material-monitor: [Mi cuenta](https://myaccount.microsoft.com)
+
+??? note "Leer más"
+
+    La foto de perfil acompaña a la cuenta en Outlook, en Teams y en los chats. Quien recibe un mensaje o entra en una conversación ve esa imagen junto al nombre, y así el claustro reconoce a la persona sin depender solo de la dirección de correo. Conviene que el retrato sea reciente y que se vea la cara, porque esa es la imagen con la que el resto del centro va a identificar la cuenta.
+
+    Desde Outlook en la web, el cambio se hace con la cuenta @edu.gva.es.
+
+    1. Pulsa la foto o las iniciales de arriba a la derecha.
+    2. Elige «Ver cuenta».
+    3. Elige «Cambiar foto».
+    4. En «Cargar una foto nueva», selecciona la imagen.
+    5. Confirma con «Aplicar».
+
+    La misma foto puede cargarse desde Mi cuenta, si resulta más cómodo hacerlo fuera del buzón. Hay que entrar con la identidad digital.
+
+    1. Pulsa el icono «Editar» que aparece sobre la foto.
+    2. Carga la imagen.
+    3. Pulsa «Guardar».
+
+    El archivo tiene que ser PNG, JPG o GIF y ocupar menos de 4 MB. Una vez guardada, la imagen puede tardar hasta 24 horas en mostrarse en todas las aplicaciones, de modo que en Outlook puede verse ya la foto mientras Teams o un chat siguen mostrando las iniciales. No hace falta volver a cargarla en cada aplicación, porque las dos vías escriben la foto de la misma cuenta.
+
 ## ¿Por qué usar la identidad digital?
 
 !!! abstract "En este apartado"
@@ -119,13 +150,13 @@ La identidad digital es la cuenta corporativa con la que el profesorado entra en
 
     Por último, la Agencia Española de Protección de Datos (AEPD) desaconseja tratar datos del alumnado con cuentas o aplicaciones personales. En sus [criterios para centros educativos](https://www.aepd.es/infografias/criterios-tratamiento-datos-personales-centros-educativos.pdf) indica que el profesorado debe usar únicamente las plataformas que haya dispuesto el responsable del tratamiento, y que las comunicaciones con las familias deben hacerse por los medios corporativos, habitualmente la plataforma educativa o el correo del centro. En el [informe sobre aplicaciones que almacenan datos en la nube ajenas a las plataformas educativas](https://www.aepd.es/sites/default/files/2019-09/guia-orientaciones-apps-datos-alumnos.pdf), recomienda primar la plataforma del centro y no crear canales paralelos. Usar la identidad digital corporativa, con su contraseña y el MFA, no es solo una costumbre cómoda: es la forma de cumplir las instrucciones de inicio de curso, de proteger los datos del alumnado y del claustro, y de trabajar con las herramientas que la Conselleria pone a disposición de los centros.
 
-## Lista de contactos en Outlook web
+## Lista de contactos y foto de perfil
 
 !!! abstract "En este apartado"
 
-    - La tarea consiste en crear, en Outlook en la web, una lista de contactos con al menos tres contactos del centro.
+    - La tarea consiste en crear, en Outlook en la web, una lista de contactos con tres o cuatro compañeros o compañeras del centro, y en poner la foto de perfil en Microsoft 365.
     - Microsoft llama también lista de distribución a esa lista personal. No es el grupo de correo del claustro, que el docente no puede crear, ni un buzón compartido.
-    - La entrega es una captura de la lista creada, con los correos difuminados, en el curso de Aules Docent del seminario.
+    - La entrega, en el curso de Aules Docent del seminario, es una sola imagen en la que se vean la lista creada, con los correos difuminados, y la foto de perfil ya visible arriba a la derecha.
 
     - :material-book-open-page-variant: [Crear, editar o eliminar una lista de contactos en Outlook](https://support.microsoft.com/es-es/outlook/people/create-edit-or-delete-a-contact-list-or-contact-group-in-outlook)
     - :material-book-open-page-variant: [«Listas de contactos y grupo de correo del claustro»](https://sway.office.com/hfQ8xqetOkpyX1Xg?ref=Link&loc=play)
@@ -135,14 +166,15 @@ La identidad digital es la cuenta corporativa con la que el profesorado entra en
     1. Entra en Outlook en la web con la identidad digital.
     2. En el panel lateral, abre Personas. La ayuda de Microsoft nombra esa entrada como People.
     3. Junto a «Nuevo contacto», abre el desplegable y elige «Nueva lista de contactos».
-    4. Escribe un nombre para la lista y añade al menos tres contactos del centro, con su correo corporativo.
+    4. Escribe un nombre para la lista y añade tres o cuatro compañeros o compañeras del centro, con su correo corporativo.
 
     !!! note "Agregar destinatarios"
 
         El campo «Agregar destinatarios» admite una sola dirección cada vez. Si se pegan varias a la vez, separadas por punto y coma o por comas, Outlook muestra el error «La lista de contactos debe tener al menos una dirección de contacto/correo electrónico» y no guarda ninguna. Cada dirección se escribe o se pega por separado y se confirma con «Agregar» o con Intro antes de pasar a la siguiente. El botón «Crear» solo se activa cuando hay al menos una dirección añadida.
 
     5. Pulsa «Crear».
-    6. Haz una captura en la que se vea la lista creada y difumina las direcciones de correo antes de guardarla.
-    7. Entrega esa captura en el curso de Aules Docent del seminario.
+    6. Pon la foto de perfil de Microsoft 365 con la cuenta @edu.gva.es, desde Outlook en la web o desde Mi cuenta.
+    7. Haz una sola captura en la que se vean la lista creada y la foto de perfil arriba a la derecha, y difumina las direcciones de correo antes de guardarla.
+    8. Entrega esa imagen en el curso de Aules Docent del seminario.
 
     La lista de contactos es un grupo personal del propio buzón. El grupo de correo del claustro, en cambio, se actualiza desde ITACA y el docente no puede crearlo.
