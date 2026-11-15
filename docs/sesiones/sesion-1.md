@@ -136,6 +136,11 @@ La identidad digital es la cuenta corporativa con la que el profesorado entra en
     2. En el panel lateral, abre Personas. La ayuda de Microsoft nombra esa entrada como People.
     3. Junto a «Nuevo contacto», abre el desplegable y elige «Nueva lista de contactos».
     4. Escribe un nombre para la lista y añade al menos tres contactos del centro, con su correo corporativo.
+
+    !!! note "Agregar destinatarios"
+
+        El campo «Agregar destinatarios» admite una sola dirección cada vez. Si se pegan varias a la vez, separadas por punto y coma o por comas, Outlook muestra el error «La lista de contactos debe tener al menos una dirección de contacto/correo electrónico» y no guarda ninguna. Cada dirección se escribe o se pega por separado y se confirma con «Agregar» o con Intro antes de pasar a la siguiente. El botón «Crear» solo se activa cuando hay al menos una dirección añadida.
+
     5. Pulsa «Crear».
     6. Haz una captura en la que se vea la lista creada y difumina las direcciones de correo antes de guardarla.
     7. Entrega esa captura en el curso de Aules Docent del seminario.

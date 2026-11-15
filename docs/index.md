@@ -18,7 +18,7 @@ El seminario de centro «Herramientas corporativas 26-27» está dirigido al pro
 El seminario forma parte de la coordinación de Tecnologías de la Información y la Comunicación (TIC) del centro. Dentro del programa, la sesión presencial IESMA TIC I trata IESMA TIC, la aplicación del propio centro, que reúne sus recursos y procedimientos TIC. El profesorado la consulta cuando necesita uno de esos recursos en el trabajo diario. La intención del seminario es que use con soltura la identidad digital y el resto de servicios corporativos.
 
 <figure style="max-width: 220px; margin: 1.5em auto; text-align: center;">
-  <img alt="Código QR para abrir IESMA TIC" src="img/qr-iesmatic.png" style="max-width: 220px; width: 100%; height: auto;">
+  <img alt="Cartel de IESMA TIC con el código QR para abrir la aplicación" src="img/qr-iesmatic.png" style="max-width: 220px; width: 100%; height: auto;">
   <figcaption style="margin-top: 0.6em;"><a href="https://fjavier-hernandez.github.io/iesmatic">Abrir IESMA TIC</a></figcaption>
 </figure>
 

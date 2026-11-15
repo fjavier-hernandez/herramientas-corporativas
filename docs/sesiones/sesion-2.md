@@ -5,7 +5,7 @@ description: Gestión de centro, gestión docente y trámites y servicios de ITA
 
 # Sesión 2. ITACA3 más allá del módulo docente
 
-ITACA3 es el sistema con el que el centro gestiona la información académica, el funcionamiento cotidiano y los trámites del personal docente. El escritorio abre un panel con tres bloques: gestión de centro, gestión docente y trámites y servicios. En trámites y servicios están OVIDOC, la oficina del expediente y de la hoja de servicios, y OVIFOR, la oficina de la formación permanente. Saber qué hay en cada bloque permite ir directo al dato, al horario o a la inscripción que hace falta ese día.
+ITACA3 es el sistema con el que el centro gestiona la información académica, el funcionamiento cotidiano y los trámites del personal docente. El escritorio abre un panel de tres bloques: gestión de centro, gestión docente y trámites y servicios. En el tercero están OVIDOC, la oficina del expediente y de la hoja de servicios, y OVIFOR, la oficina de la formación permanente. Distinguir cada bloque permite llegar al dato, al horario o a la inscripción que hace falta en el día a día.
 
 !!! info "Punto de partida de la sesión"
 
