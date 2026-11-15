@@ -1,16 +1,19 @@
 ---
 title: Sesión 1. Presentación e identidad digital
-description: Primera sesión del seminario Herramientas corporativas 26-27: identidad digital, contraseña, autenticación multifactor y buen uso del correo.
+description: Identidad digital, contraseña, autenticación multifactor y buen uso del correo corporativo.
 ---
 
 # Sesión 1. Presentación e identidad digital
 
-Esta primera sesión abre el seminario. Sirve para situar el calendario y la forma de trabajo, y para dejar operativa la identidad digital de cada participante, que es la cuenta corporativa con la que se entra en los servicios de la Conselleria. A partir de ahí, la hora se dedica a la contraseña, a la autenticación multifactor y al uso del correo en el centro.
+La identidad digital es la cuenta corporativa con la que el profesorado entra en los servicios de la Conselleria. Esa cuenta se sostiene en una contraseña que no se comparte y en una autenticación multifactor que añade una segunda comprobación. El correo asociado es el cauce formal del centro, y de su uso dependen los avisos al claustro, las listas y los buzones compartidos. Revisar estas tres piezas en la propia cuenta evita bloqueos y usos que la normativa no admite.
 
 
 !!! info "Punto de partida de la sesión"
 
-    Las guías de esta sesión salen de la [página de manuales de Identitat Digital](https://portal.edu.gva.es/identitatdigital/es/manuales/), donde están la contraseña, la autenticación multifactor, el correo, las listas y los buzones. El Sway [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN) es, igual que en la portada, el punto de partida de todo el seminario.
+    Los manuales de la identidad digital reúnen la contraseña, la autenticación multifactor, el correo, las listas y los buzones. El Sway Plataformes TIC per al personal docent recorre las plataformas del profesorado.
+
+    - :material-book-open-page-variant: [Página de manuales de Identitat Digital](https://portal.edu.gva.es/identitatdigital/es/manuales/)
+    - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
 
 
 ## La contraseña
@@ -20,25 +23,19 @@ Esta primera sesión abre el seminario. Sirve para situar el calendario y la for
     - La contraseña forma parte de la identidad digital y no se comparte, ni siquiera cuando la petición llega con urgencia o desde una dirección que parece de confianza.
     - Cuando varias personas tienen que atender un mismo buzón, lo que corresponde es un buzón compartido, y no la cesión de la clave de nadie.
     - El cambio se hace en el autoservicio oficial, con una clave nueva que no se reutiliza en otros servicios y que no pueda adivinarse a partir del nombre o del centro.
-    - Si se olvida, se recupera con el formulario oficial, porque la clave no se envía por correo ni por el chat del seminario.
-
-    El detalle de las pantallas está en los materiales siguientes.
+    - Si se olvida, se recupera con el formulario oficial, porque la clave no se envía por correo ni por un chat.
 
     - :material-book-open-page-variant: [«Cambio y recuperación de contraseña»](https://sway.office.com/DqoHItVLi1G0fcfk?ref=Link&loc=play)
     - :material-school: [Guía del seminario sobre el cambio y la recuperación de la contraseña](https://sway.cloud.microsoft/Jewpk37vJqCsGYXB)
+    - :material-monitor: [Autoservicio de cambio de contraseña](https://acces.edu.gva.es/sso/ad/ad.change.xhtml)
+    - :material-monitor: [Formulario de recuperación de la contraseña](https://acces.edu.gva.es/sso/ad/ad.forgot.xhtml)
     - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
-
-El cambio se hace en el [autoservicio oficial de cambio de contraseña](https://acces.edu.gva.es/sso/ad/ad.change.xhtml). Hay que identificarse con la identidad digital y con la contraseña actual, y a continuación elegir una clave nueva que no se esté usando en otros servicios y que no se pueda adivinar a partir del nombre o del centro. Conviene cambiarla al empezar a usar la cuenta y volver a cambiarla si se sospecha que alguien más la conoce.
-
-Si se ha olvidado la contraseña, se usa el [formulario de recuperación del autoservicio oficial](https://acces.edu.gva.es/sso/ad/ad.forgot.xhtml), que pide unos datos de comprobación de la cuenta antes de permitir una contraseña nueva. Los pasos están en el manual oficial enlazado en «Para saber más». La recuperación no se resuelve enviando la clave por correo o por el chat del seminario.
 
 ??? note "Leer más"
 
-    La contraseña forma parte de la identidad digital y es personal. No se comparte con compañeros, con el alumnado ni con personas ajenas al centro, aunque la petición llegue con urgencia o desde una dirección que parece de confianza. Quien conoce la clave puede leer el correo y actuar con esa cuenta. Cuando varias personas tienen que atender un mismo buzón, lo que corresponde es un buzón compartido, del que se habla más adelante en esta sesión, y no la cesión de la contraseña de nadie.
+    La contraseña forma parte de la identidad digital y es personal. No se comparte con compañeros, con el alumnado ni con personas ajenas al centro, aunque la petición llegue con urgencia o desde una dirección que parece de confianza. Quien conoce la clave puede leer el correo y actuar con esa cuenta. Cuando varias personas tienen que atender un mismo buzón, lo que corresponde es un buzón compartido, y no la cesión de la contraseña de nadie.
 
-    ### Para saber más
-
-    El manual oficial [«Cambio y recuperación de contraseña»](https://sway.office.com/DqoHItVLi1G0fcfk?ref=Link&loc=play) recorre esas pantallas con el detalle de cada paso. Como complemento de este seminario, la [guía del seminario sobre el cambio y la recuperación de la contraseña](https://sway.cloud.microsoft/Jewpk37vJqCsGYXB) sigue el mismo recorrido.
+    El cambio se hace en el autoservicio oficial, con la identidad digital y la contraseña actual. La clave nueva no debe reutilizarse en otros servicios ni poder adivinarse a partir del nombre o del centro. Conviene cambiarla al empezar a usar la cuenta y volver a cambiarla si se sospecha que alguien más la conoce. Si se ha olvidado, el formulario de recuperación pide unos datos de comprobación antes de permitir una clave nueva. La recuperación no se resuelve enviando la clave por correo ni por un chat.
 
 ## La autenticación multifactor
 
@@ -50,15 +47,10 @@ Si se ha olvidado la contraseña, se usa el [formulario de recuperación del aut
     - Esos métodos se gestionan en la información de seguridad de la cuenta, y el alta no puede hacerse desde el extranjero.
     - Si se cambia de móvil y queda otro método, se da de baja el aparato antiguo y se registra el nuevo; si se pierde el único, el acceso se restablece con una incidencia en el Soporte y Asistencia Informática (SAI).
 
-    La configuración se sigue en los materiales siguientes. El Sway de plataformas recuerda, además, que este doble factor está activo en la identidad digital.
-
     - :material-book-open-page-variant: [Guía oficial de autenticación multifactor](https://portal.edu.gva.es/identitatdigital/es/id-autenticacion-multifactor/)
+    - :material-monitor: [Información de seguridad de la cuenta](https://myaccount.microsoft.com/)
     - :material-school: [Guía del seminario sobre la autenticación multifactor](https://sway.cloud.microsoft/qFfQRI4QnCy3JJrF)
     - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
-
-También hay que tener más de un método. La llamada o el SMS, el mensaje de texto, es un sistema que se va a retirar y se desactiva automáticamente el 1 de febrero de 2027, así que hay que tener configurados al menos dos métodos de los que el servicio mantiene: una aplicación de autenticación, KeePassXC en el ordenador o una extensión del navegador. Esos métodos se gestionan en [https://myaccount.microsoft.com/](https://myaccount.microsoft.com/), en el apartado Información de seguridad, y la configuración no se puede hacer desde el extranjero.
-
-Si se cambia de móvil y todavía queda otro método disponible, se entra con él, se da de baja el aparato antiguo y se registra el nuevo desde ese mismo apartado. Si se ha perdido el único método y no hay forma de entrar, no se usa la contraseña ni el código de otra persona: se abre una incidencia en el SAI para restablecer el acceso.
 
 ??? note "Leer más"
 
@@ -66,9 +58,9 @@ Si se cambia de móvil y todavía queda otro método disponible, se entra con é
 
     Según la [guía oficial de autenticación multifactor](https://portal.edu.gva.es/identitatdigital/es/id-autenticacion-multifactor/), el doble factor del correo y de Microsoft 365 y el de ITACA, el sistema de información de la gestión educativa, son totalmente independientes: configurar uno no configura el otro. En la aplicación Authenticator se distinguen con claridad. El de Microsoft 365 aparece con el correo corporativo y el nombre «Conselleria d'Educación», y se autoriza con una notificación en el móvil. El de ITACA aparece como «GVA Educación» y funciona con un código de verificación. Conviene revisar los dos, porque dejar configurado solo uno deja el otro pendiente.
 
-    ### Para saber más
+    Los métodos se gestionan en la [información de seguridad de la cuenta](https://myaccount.microsoft.com/), y la guía oficial indica que el alta no puede hacerse desde el extranjero. La llamada y el mensaje de texto se retiran el 1 de febrero de 2027, así que hace falta otro método de los que el servicio mantiene, como una aplicación de autenticación, KeePassXC o una extensión del navegador.
 
-    La [guía oficial de autenticación multifactor](https://portal.edu.gva.es/identitatdigital/es/id-autenticacion-multifactor/) explica qué opciones hay y cómo se configura cada una. La [guía del seminario sobre la autenticación multifactor](https://sway.cloud.microsoft/qFfQRI4QnCy3JJrF) recorre el mismo proceso.
+    Si se cambia de móvil y todavía queda otro método, se entra con él, se da de baja el aparato antiguo y se registra el nuevo desde ese mismo apartado. Si se ha perdido el único método y no hay forma de entrar, no se usa la contraseña ni el código de otra persona: se abre una incidencia en el SAI para restablecer el acceso.
 
 ## El buen uso del correo
 
@@ -79,8 +71,6 @@ Si se cambia de móvil y todavía queda otro método disponible, se entra con é
     - La copia oculta (CCO) sirve para un aviso puntual en el que no hace falta mostrar las direcciones; si ese envío se repite, lo adecuado es una lista de distribución del centro.
     - Las listas de contactos de Outlook son personales, las listas de distribución son corporativas y los buzones compartidos permiten que varias personas lean y respondan desde una dirección común.
     - El chat de Teams cubre la consulta breve dentro del equipo, mientras que el correo sigue siendo preferible cuando el mensaje debe poder releerse, va dirigido a alguien de fuera o deja constancia de un envío amplio.
-
-    Los cuatro manuales de este apartado, y el Sway de plataformas, son los siguientes.
 
     - :material-book-open-page-variant: [«Buenas prácticas del buzón de correo electrónico»](https://sway.office.com/Q5OSsl0RTHsGdhHj?ref=Link&loc=play)
     - :material-book-open-page-variant: [«Listas de contactos y grupo de correo del claustro»](https://sway.office.com/hfQ8xqetOkpyX1Xg?ref=Link&loc=play)
@@ -102,11 +92,7 @@ Si se cambia de móvil y todavía queda otro método disponible, se entra con é
 
     Un correo de suplantación de identidad, también llamado phishing, imita a un remitente de confianza para obtener una contraseña, un dato o un clic. Suele apurar a actuar enseguida, usa un saludo genérico, incluye un enlace que casi coincide con una dirección conocida o adjunta un archivo que no se esperaba. Hay que leer la dirección del remitente completa, y no solo el nombre que se muestra delante. Una petición de contraseña por correo es, por sí misma, motivo para no contestar y para tratar el mensaje como sospechoso. Ante la duda, no se abre el enlace ni se responde al mensaje: se pregunta por el chat del centro o por un canal ya conocido y, si cabe la posibilidad de que la cuenta se haya visto comprometida, se cambia la contraseña y se comunica al SAI.
 
-    El chat de Teams es mejor que un correo cuando la consulta es breve, va dirigida a quien ya está en ese equipo y no necesita quedar como comunicación formal. Es el caso de una duda de la sesión, de un aviso de que la práctica ya está revisada o de una pregunta que se resuelve en pocas frases. El correo sigue siendo preferible cuando el mensaje debe poder releerse más adelante, cuando va dirigido a alguien que no está en el equipo o cuando conviene dejar constancia de un envío a muchas personas.
-
-    ### Para saber más
-
-    Las buenas prácticas del buzón están recogidas en el manual oficial [«Buenas prácticas del buzón de correo electrónico»](https://sway.office.com/Q5OSsl0RTHsGdhHj?ref=Link&loc=play). Las listas de contactos y el grupo de correo del claustro tienen su propia guía, [«Listas de contactos y grupo de correo del claustro»](https://sway.office.com/hfQ8xqetOkpyX1Xg?ref=Link&loc=play), y otra explica [cómo trabajar el correo del claustro con varios buzones a la vez](https://sway.office.com/AvY5G0OauDB5zLeT?ref=Link&loc=play). La gestión y el uso de los buzones compartidos están descritos en el portal de identidad digital, en [«Buzones compartidos: gestión y uso»](https://portal.edu.gva.es/identitatdigital/es/id-buzones-compartidos-gestion-y-uso/). El índice de estos manuales, y del resto de guías de la identidad digital, está en la [página de manuales de Identitat Digital](https://portal.edu.gva.es/identitatdigital/es/manuales/).
+    El chat de Teams es mejor que un correo cuando la consulta es breve, va dirigida a quien ya está en ese equipo y no necesita quedar como comunicación formal. Es el caso de una duda breve entre compañeros, de un aviso de que un documento ya está revisado o de una pregunta que se resuelve en pocas frases. El correo sigue siendo preferible cuando el mensaje debe poder releerse más adelante, cuando va dirigido a alguien que no está en el equipo o cuando conviene dejar constancia de un envío a muchas personas.
 
 ## ¿Por qué usar la identidad digital?
 
@@ -116,8 +102,6 @@ Si se cambia de móvil y todavía queda otro método disponible, se entra con é
     - Las instrucciones de inicio de curso piden usar las herramientas de la Conselleria, y ese mismo criterio alcanza al profesorado de Formación Profesional.
     - La cuenta es personal, queda reservada a la docencia y a la administración educativa, y sin la autenticación multifactor no puede usarse fuera de la red corporativa.
     - Trabajar con ella es la forma de proteger los datos del alumnado y de usar los medios que el centro tiene dispuestos.
-
-    El marco de las plataformas, el portal de la cuenta y la página sobre el uso fuera de la red corporativa son los siguientes.
 
     - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
     - :material-book-open-page-variant: [Portal de Identitat Digital](https://portal.edu.gva.es/identitatdigital/es/)
@@ -135,37 +119,30 @@ Si se cambia de móvil y todavía queda otro método disponible, se entra con é
 
     Por último, la Agencia Española de Protección de Datos (AEPD) desaconseja tratar datos del alumnado con cuentas o aplicaciones personales. En sus [criterios para centros educativos](https://www.aepd.es/infografias/criterios-tratamiento-datos-personales-centros-educativos.pdf) indica que el profesorado debe usar únicamente las plataformas que haya dispuesto el responsable del tratamiento, y que las comunicaciones con las familias deben hacerse por los medios corporativos, habitualmente la plataforma educativa o el correo del centro. En el [informe sobre aplicaciones que almacenan datos en la nube ajenas a las plataformas educativas](https://www.aepd.es/sites/default/files/2019-09/guia-orientaciones-apps-datos-alumnos.pdf), recomienda primar la plataforma del centro y no crear canales paralelos. Usar la identidad digital corporativa, con su contraseña y el MFA, no es solo una costumbre cómoda: es la forma de cumplir las instrucciones de inicio de curso, de proteger los datos del alumnado y del claustro, y de trabajar con las herramientas que la Conselleria pone a disposición de los centros.
 
-## Práctica de la sesión
+## Lista de contactos en Outlook web
 
 !!! abstract "En este apartado"
 
-    - Durante la sesión, cada participante comprueba en su propio móvil que la autenticación multifactor de su identidad digital está activa.
-    - También comprueba que ha registrado un segundo método de recuperación, distinto del principal, y lo añade antes de cerrar la sesión si todavía falta.
-    - La comprobación se hace en la información de seguridad de la cuenta y en la aplicación de autenticación del teléfono, con la guía oficial a mano.
-    - Las contraseñas y los códigos se quedan en el dispositivo de cada persona, sin anotarlos en un papel común ni dictarlos en voz alta.
+    - La tarea consiste en crear, en Outlook en la web, una lista de contactos con al menos tres contactos del centro.
+    - Microsoft llama también lista de distribución a esa lista personal. No es el grupo de correo del claustro, que el docente no puede crear, ni un buzón compartido.
+    - La entrega es una captura de la lista creada, con los correos difuminados, en el curso de Aules Docent del seminario.
 
-    Para esa comprobación conviene tener abiertos los materiales siguientes.
+    - :material-book-open-page-variant: [Crear, editar o eliminar una lista de contactos en Outlook](https://support.microsoft.com/es-es/outlook/people/create-edit-or-delete-a-contact-list-or-contact-group-in-outlook)
+    - :material-book-open-page-variant: [«Listas de contactos y grupo de correo del claustro»](https://sway.office.com/hfQ8xqetOkpyX1Xg?ref=Link&loc=play)
 
-    - :material-book-open-page-variant: [Guía oficial de autenticación multifactor](https://portal.edu.gva.es/identitatdigital/es/id-autenticacion-multifactor/)
-    - :material-school: [Guía del seminario sobre la autenticación multifactor](https://sway.cloud.microsoft/qFfQRI4QnCy3JJrF)
-    - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
+??? note "Leer más"
 
-Durante la sesión, cada participante comprueba en su propio móvil que tiene activada la autenticación multifactor de su identidad digital y que ha registrado un segundo método de recuperación, distinto del principal. La comprobación se hace en la información de seguridad de la cuenta y en la aplicación de autenticación del teléfono. Si falta el segundo método, se añade antes de dar la sesión por cerrada, con la guía oficial a mano.
+    1. Entra en Outlook en la web con la identidad digital.
+    2. En el panel lateral, abre Personas. La ayuda de Microsoft nombra esa entrada como People.
+    3. Junto a «Nuevo contacto», abre el desplegable y elige «Nueva lista de contactos».
+    4. Escribe un nombre para la lista y añade al menos tres contactos del centro, con su correo corporativo.
 
-Las contraseñas y los códigos no se anotan en un papel común ni se dictan en voz alta. Cada persona trabaja solo con su dispositivo.
+    !!! note "Agregar destinatarios"
 
-## Tarea de casa de la sesión 2
+        El campo «Agregar destinatarios» admite una sola dirección cada vez. Si se pegan varias a la vez, separadas por punto y coma o por comas, Outlook muestra el error «La lista de contactos debe tener al menos una dirección de contacto/correo electrónico» y no guarda ninguna. Cada dirección se escribe o se pega por separado y se confirma con «Agregar» o con Intro antes de pasar a la siguiente. El botón «Crear» solo se activa cuando hay al menos una dirección añadida.
 
-!!! abstract "En este apartado"
+    5. Pulsa «Crear».
+    6. Haz una captura en la que se vea la lista creada y difumina las direcciones de correo antes de guardarla.
+    7. Entrega esa captura en el curso de Aules Docent del seminario.
 
-    - La tarea de casa es la sesión 2, el 12 de noviembre de 2026, y se hace en casa: trata de ITACA3 y del módulo docente.
-    - El módulo docente es la vista que el profesorado usa a diario dentro de ITACA3; esta sesión sale de esa vista para ver el resto del sistema de información.
-    - Ese recorrido prepara la sesión 3, presencial, del 19 de noviembre, dedicada a IESMA TIC I.
-    - El tramo se cierra con el formulario breve de autocomprobación.
-
-    El marco de ITACA3 está en el Sway [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN). IESMA TIC, que se verá en la sesión presencial del 19 de noviembre, se abre desde la redirección [/iesmatic](https://fjavier-hernandez.github.io/iesmatic).
-
-La tarea de casa es la sesión 2. Se hace en casa el 12 de noviembre de 2026 y está dedicada a ITACA3 y al módulo docente. El módulo docente es la vista que el profesorado usa a diario dentro de ITACA3. Esta sesión sale de esa vista y se fija en el resto del sistema de información, para distinguir lo que se consulta cada día de lo que la plataforma ofrece más allá. Ese trabajo prepara la sesión 3, que es presencial y se celebra el 19 de noviembre: IESMA TIC I, con la presentación de la aplicación del centro, las incidencias TIC, el momento de abrir un tique en gvaSAI y REDAR, además de OneDrive. La hora se cierra con el formulario breve de autocomprobación.
-
-!!! note "Nota"
-    El formulario de autocomprobación de esta tarea se publicará en la próxima sesión.
+    La lista de contactos es un grupo personal del propio buzón. El grupo de correo del claustro, en cambio, se actualiza desde ITACA y el docente no puede crearlo.
