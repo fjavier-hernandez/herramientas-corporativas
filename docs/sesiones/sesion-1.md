@@ -10,7 +10,7 @@ La identidad digital es la cuenta corporativa con la que el profesorado entra en
 
 !!! info "Punto de partida de la sesión"
 
-    Los manuales de la identidad digital reúnen la contraseña, la autenticación multifactor, el correo, las listas y los buzones. El Sway de plataformas TIC sitúa esas piezas entre las herramientas del personal docente.
+    Los manuales de la identidad digital reúnen la contraseña, la autenticación multifactor, el correo, las listas y los buzones. El Sway Plataformes TIC per al personal docent recorre las plataformas del profesorado.
 
     - :material-book-open-page-variant: [Página de manuales de Identitat Digital](https://portal.edu.gva.es/identitatdigital/es/manuales/)
     - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
@@ -25,19 +25,17 @@ La identidad digital es la cuenta corporativa con la que el profesorado entra en
     - El cambio se hace en el autoservicio oficial, con una clave nueva que no se reutiliza en otros servicios y que no pueda adivinarse a partir del nombre o del centro.
     - Si se olvida, se recupera con el formulario oficial, porque la clave no se envía por correo ni por un chat.
 
-    El detalle de las pantallas está en los materiales siguientes.
-
     - :material-book-open-page-variant: [«Cambio y recuperación de contraseña»](https://sway.office.com/DqoHItVLi1G0fcfk?ref=Link&loc=play)
     - :material-school: [Guía del seminario sobre el cambio y la recuperación de la contraseña](https://sway.cloud.microsoft/Jewpk37vJqCsGYXB)
+    - :material-monitor: [Autoservicio de cambio de contraseña](https://acces.edu.gva.es/sso/ad/ad.change.xhtml)
+    - :material-monitor: [Formulario de recuperación de la contraseña](https://acces.edu.gva.es/sso/ad/ad.forgot.xhtml)
     - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
-
-El cambio se hace en el [autoservicio oficial de cambio de contraseña](https://acces.edu.gva.es/sso/ad/ad.change.xhtml), con la identidad digital y la contraseña actual. Si se ha olvidado, el [formulario de recuperación](https://acces.edu.gva.es/sso/ad/ad.forgot.xhtml) pide unos datos de comprobación antes de permitir una clave nueva.
 
 ??? note "Leer más"
 
     La contraseña forma parte de la identidad digital y es personal. No se comparte con compañeros, con el alumnado ni con personas ajenas al centro, aunque la petición llegue con urgencia o desde una dirección que parece de confianza. Quien conoce la clave puede leer el correo y actuar con esa cuenta. Cuando varias personas tienen que atender un mismo buzón, lo que corresponde es un buzón compartido, y no la cesión de la contraseña de nadie.
 
-    La clave nueva no debe reutilizarse en otros servicios ni poder adivinarse a partir del nombre o del centro. Conviene cambiarla al empezar a usar la cuenta y volver a cambiarla si se sospecha que alguien más la conoce. La recuperación no se resuelve enviando la clave por correo ni por un chat: el formulario oficial es el único cauce.
+    El cambio se hace en el autoservicio oficial, con la identidad digital y la contraseña actual. La clave nueva no debe reutilizarse en otros servicios ni poder adivinarse a partir del nombre o del centro. Conviene cambiarla al empezar a usar la cuenta y volver a cambiarla si se sospecha que alguien más la conoce. Si se ha olvidado, el formulario de recuperación pide unos datos de comprobación antes de permitir una clave nueva. La recuperación no se resuelve enviando la clave por correo ni por un chat.
 
 ## La autenticación multifactor
 
@@ -49,9 +47,8 @@ El cambio se hace en el [autoservicio oficial de cambio de contraseña](https://
     - Esos métodos se gestionan en la información de seguridad de la cuenta, y el alta no puede hacerse desde el extranjero.
     - Si se cambia de móvil y queda otro método, se da de baja el aparato antiguo y se registra el nuevo; si se pierde el único, el acceso se restablece con una incidencia en el Soporte y Asistencia Informática (SAI).
 
-    La configuración se sigue en los materiales siguientes. El Sway de plataformas recuerda, además, que este doble factor está activo en la identidad digital.
-
     - :material-book-open-page-variant: [Guía oficial de autenticación multifactor](https://portal.edu.gva.es/identitatdigital/es/id-autenticacion-multifactor/)
+    - :material-monitor: [Información de seguridad de la cuenta](https://myaccount.microsoft.com/)
     - :material-school: [Guía del seminario sobre la autenticación multifactor](https://sway.cloud.microsoft/qFfQRI4QnCy3JJrF)
     - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
 
@@ -74,8 +71,6 @@ El cambio se hace en el [autoservicio oficial de cambio de contraseña](https://
     - La copia oculta (CCO) sirve para un aviso puntual en el que no hace falta mostrar las direcciones; si ese envío se repite, lo adecuado es una lista de distribución del centro.
     - Las listas de contactos de Outlook son personales, las listas de distribución son corporativas y los buzones compartidos permiten que varias personas lean y respondan desde una dirección común.
     - El chat de Teams cubre la consulta breve dentro del equipo, mientras que el correo sigue siendo preferible cuando el mensaje debe poder releerse, va dirigido a alguien de fuera o deja constancia de un envío amplio.
-
-    Los cuatro manuales de este apartado, y el Sway de plataformas, son los siguientes.
 
     - :material-book-open-page-variant: [«Buenas prácticas del buzón de correo electrónico»](https://sway.office.com/Q5OSsl0RTHsGdhHj?ref=Link&loc=play)
     - :material-book-open-page-variant: [«Listas de contactos y grupo de correo del claustro»](https://sway.office.com/hfQ8xqetOkpyX1Xg?ref=Link&loc=play)
@@ -108,8 +103,6 @@ El cambio se hace en el [autoservicio oficial de cambio de contraseña](https://
     - La cuenta es personal, queda reservada a la docencia y a la administración educativa, y sin la autenticación multifactor no puede usarse fuera de la red corporativa.
     - Trabajar con ella es la forma de proteger los datos del alumnado y de usar los medios que el centro tiene dispuestos.
 
-    El marco de las plataformas, el portal de la cuenta y la página sobre el uso fuera de la red corporativa son los siguientes.
-
     - :material-presentation-play: [Plataformes TIC per al personal docent](https://sway.office.com/BXHUfqCtnkWxgTnN)
     - :material-book-open-page-variant: [Portal de Identitat Digital](https://portal.edu.gva.es/identitatdigital/es/)
     - :material-book-open-page-variant: [Uso de la cuenta fuera de la red corporativa](https://portal.edu.gva.es/identitatdigital/es/%f0%9f%91%a9%f0%9f%92%bb%f0%9f%91%a8%f0%9f%92%bb-identidad-digital/)
@@ -134,21 +127,17 @@ El cambio se hace en el [autoservicio oficial de cambio de contraseña](https://
     - Microsoft llama también lista de distribución a esa lista personal. No es el grupo de correo del claustro, que el docente no puede crear, ni un buzón compartido.
     - La entrega es una captura de la lista creada, con los correos difuminados, en el curso de Aules Docent del seminario.
 
-    Los pasos salen de la ayuda de Microsoft y de la guía de listas de contactos.
-
     - :material-book-open-page-variant: [Crear, editar o eliminar una lista de contactos en Outlook](https://support.microsoft.com/es-es/outlook/people/create-edit-or-delete-a-contact-list-or-contact-group-in-outlook)
     - :material-book-open-page-variant: [«Listas de contactos y grupo de correo del claustro»](https://sway.office.com/hfQ8xqetOkpyX1Xg?ref=Link&loc=play)
 
-La tarea se completa en este orden.
-
-1. Entra en Outlook en la web con la identidad digital.
-2. En el panel lateral, abre Personas. La ayuda de Microsoft nombra esa entrada como People.
-3. Junto a «Nuevo contacto», abre el desplegable y elige «Nueva lista de contactos».
-4. Escribe un nombre para la lista y añade al menos tres contactos del centro, con su correo corporativo.
-5. Pulsa «Crear».
-6. Haz una captura en la que se vea la lista creada y difumina las direcciones de correo antes de guardarla.
-7. Entrega esa captura en el curso de Aules Docent del seminario.
-
 ??? note "Leer más"
 
-    En Outlook en la web, la lista de contactos es un grupo personal que cada docente crea en su buzón para escribir a varias personas a la vez. La [ayuda de Microsoft](https://support.microsoft.com/es-es/outlook/people/create-edit-or-delete-a-contact-list-or-contact-group-in-outlook) también la llama lista de distribución. No debe confundirse con el grupo de correo del claustro, que se actualiza desde ITACA y que el docente no puede crear, como explica la guía [«Listas de contactos y grupo de correo del claustro»](https://sway.office.com/hfQ8xqetOkpyX1Xg). La captura de la entrega tiene que dejar ver el nombre de la lista y que contiene al menos tres contactos, con las direcciones difuminadas para que no se publiquen correos.
+    1. Entra en Outlook en la web con la identidad digital.
+    2. En el panel lateral, abre Personas. La ayuda de Microsoft nombra esa entrada como People.
+    3. Junto a «Nuevo contacto», abre el desplegable y elige «Nueva lista de contactos».
+    4. Escribe un nombre para la lista y añade al menos tres contactos del centro, con su correo corporativo.
+    5. Pulsa «Crear».
+    6. Haz una captura en la que se vea la lista creada y difumina las direcciones de correo antes de guardarla.
+    7. Entrega esa captura en el curso de Aules Docent del seminario.
+
+    La lista de contactos es un grupo personal del propio buzón. El grupo de correo del claustro, en cambio, se actualiza desde ITACA y el docente no puede crearlo.
