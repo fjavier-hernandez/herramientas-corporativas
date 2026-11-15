@@ -4,7 +4,7 @@ Apuntes del seminario de centro «Herramientas corporativas 26-27», dirigido al
 
 **Web de los apuntes:** <https://fjavier-hernandez.github.io/herramientas-corporativas/>
 
-El material se publica sesión a sesión. En este momento puede consultarse la primera, dedicada a la identidad digital y al correo, y el índice de inicio deja ya el hueco de las diecinueve restantes para cuando se impartan.
+El material se publica sesión a sesión. En este momento pueden consultarse la primera, dedicada a la identidad digital y al correo, y la segunda, dedicada a ITACA3 más allá del módulo docente. El índice de inicio deja el hueco de las dieciocho restantes para cuando se impartan.
 
 ## Compilar en local
 

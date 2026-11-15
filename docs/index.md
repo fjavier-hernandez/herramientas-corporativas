@@ -24,7 +24,7 @@ El calendario y el índice son la misma tabla. La columna Material indica si los
 | N.º | Fecha | Modalidad | Tema | Material |
 | ---: | --- | --- | --- | --- |
 | 1 | 5/11/26 | Presencial | [Presentación. Identidad digital: contraseña, recuperación, doble factor (MFA) y correo corporativo](sesiones/sesion-1.md) | Disponible |
-| 2 | 12/11/26 | En casa | ITACA3 y módulo docente | Próximamente |
+| 2 | 12/11/26 | En casa | [ITACA3 más allá del módulo docente](sesiones/sesion-2.md) | Disponible |
 | 3 | 19/11/26 | Presencial | IESMA TIC I: presentación, Incidencias TIC (y cuándo abrir un tique en gvaSAI) y REDAR. OneDrive | Próximamente |
 | 4 | 3/12/26 | En casa | IESMA TIC II: VATERLOO y PARTENON | Próximamente |
 | 5 | 10/12/26 | En casa | OneDrive y SharePoint: guardar y compartir | Próximamente |
@@ -73,4 +73,4 @@ Cada sesión desarrolla la parte de esas plataformas que le corresponde, adaptad
 
 ## Índice de sesiones
 
-Las veinte sesiones, con su fecha, su modalidad y su tema, están reunidas en el calendario de más arriba, para no repetir la misma lista. La columna Material indica si los apuntes ya están publicados. La sesión 1 puede consultarse. En las demás, «Próximamente» señala que el material se publicará cuando se trabaje esa sesión.
+Las veinte sesiones, con su fecha, su modalidad y su tema, están reunidas en el calendario de más arriba, para no repetir la misma lista. La columna Material indica si los apuntes ya están publicados. Las sesiones 1 y 2 pueden consultarse. En las demás, «Próximamente» señala que el material se publicará cuando se trabaje esa sesión.
