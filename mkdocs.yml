@@ -10,6 +10,7 @@ nav:
   - Inicio: index.md
   - Sesiones:
       - "Sesión 1 — Identidad digital y correo": sesiones/sesion-1.md
+      - "Sesión 2 — ITACA3 más allá del módulo docente": sesiones/sesion-2.md
 
 theme:
   language: es
